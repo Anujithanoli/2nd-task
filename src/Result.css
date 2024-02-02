@@ -1,0 +1,19 @@
+.man {
+    display: flex;
+    gap: 20px;
+    margin-left: 100px;
+    padding-top: 60px;
+  }
+  
+  .first1 {
+    width: 600px;
+    height: 25px;
+  }
+  
+  .but1 {
+    background-color: rgba(238, 60, 15, 0.911);
+    width: 80px;
+    color: white;
+    border: none;
+  }
+  
